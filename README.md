@@ -1,7 +1,7 @@
 0x19. C - Stacks, Queues - LIFO, FIFO
 Usage
 Clone the repository
-$ git clone https://github.com/mellab/monty.git
+$ git clone https://github.com/reydigital/monty.git
 The code will be compiled this way:
 $ gcc -Wall -Werror -Wextra -pedantic *.c -o monty
 The monty program
